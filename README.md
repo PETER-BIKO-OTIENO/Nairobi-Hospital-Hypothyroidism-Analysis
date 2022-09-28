@@ -1,4 +1,4 @@
-# IP_WEEK8_CORE
+
 Overview 
 
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
@@ -29,20 +29,37 @@ http://bit.ly/hypothyroid_data
 Dataset Columns
 
 Age
+
 Sex
+
 on_thyroxine
+
 query_on_thyroxine
+
 on_antithyroid_medicationthyroid_surgery
+
 query_hypothyroid
+
 query_hyperthyroid
+
 pregnant
+
 sick
+
 tumor
+
 lithium
+
 goitre
+
 TSH_measured
+
 TSH
+
 T3_measured
+
 T3
+
 TT4_measured
+
 TT4
